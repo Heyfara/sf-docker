@@ -10,4 +10,4 @@ This is a work in progress so feel free to contribute.
 
 The Apache-PHP container is linked to the MySQL container so use can access your database using doctrine.
 
-Check the [wiki](https://github.com/Heyfara/sf-docker/wiki) out for more details/
+Check the [wiki](https://github.com/Heyfara/sf-docker/wiki) out for more details.
